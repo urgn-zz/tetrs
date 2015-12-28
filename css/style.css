@@ -1,0 +1,12 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 1px solid chartreuse;
+}
+
+body {
+    background-color: #f0f0f0
+}

@@ -1,0 +1,19 @@
+{
+  "options" : {
+    "lines" : 20,
+    "columns" : 10,
+    "fallDelay" : 300,
+    "cellWidth" : 24,
+    "cellHeight" : 24
+  },
+
+  "images" : {
+    "blue" : "./res/blue.png",
+    "cyan" : "./res/cyan.png",
+    "green" : "./res/green.png",
+    "orange" : "./res/orange.png",
+    "purple" : "./res/purple.png",
+    "red" : "./res/red.png",
+    "yellow" : "./res/yellow.png"
+  }
+}
